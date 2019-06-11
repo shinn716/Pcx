@@ -4,8 +4,6 @@ Add new function .
 - Test success on Unity 2018.4
 - Load in runtime
 
-![Disks](https://github.com/shinn716/Pcx/blob/master/figure/Snipaste_2019-06-11_13-13-27.png)
-
 -------------------
 ![GIF](https://i.imgur.com/zc6P96x.gif)
 ![GIF](https://i.imgur.com/lpWIiXu.gif)
