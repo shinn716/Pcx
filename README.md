@@ -1,8 +1,7 @@
-Pcx - Point Cloud Importer/Renderer for Unity
+Pcx - Point Cloud Importer/Renderer for Unity (Load ply in runtime)
 =============================================
-Add new function . 
 - Test success on Unity 2018.4
-- Load in runtime
+- Load in runtime.
 
 -------------------
 ![GIF](https://i.imgur.com/zc6P96x.gif)
